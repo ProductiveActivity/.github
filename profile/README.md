@@ -2,7 +2,7 @@
 
 ## Who We Are
 
-A small team of developers building productivity apps together. We work across the full stack, from React on the front to Node, Postgres, and a bit of Python behind it.
+A small team of developers building productivity apps together. We work across the full stack.
 
 ## Our Motivation
 
